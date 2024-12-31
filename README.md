@@ -32,15 +32,14 @@
 
 ### 🧰 Tools and Technologies
 <div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="50" alt="react logo" />
+  <img src="https://shorturl.at/Br6KP" height="50" alt="flutter logo" />
   <img width="20" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" height="50" alt="vuejs logo" />
+  <img src="https://shorturl.at/Z3zx7" height="50" alt="dart logo" />
   <img width="20" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="50" alt="nextjs logo" />
+  <img src="https://shorturl.at/U8UwX" height="50" alt="github logo" />
   <img width="20" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="50" alt="javascript logo" />
+  <img src="https://shorturl.at/qcVtK" height="50" alt="javascript logo" />
   <img width="20" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="50" alt="git logo" />
 </div>
 
 ---
@@ -65,7 +64,7 @@
 
 ### ☕ Buy Me a Coffee
 <div align="center">
-  <a href="http://www.coffeete.ir/geniusValley" target="_blank"">
+  <a href="www.coffeete.ir/olive14ah" target="_blank"">
     <img src="http://www.coffeete.ir/images/buttons/lemonchiffon.png" style="width:260px;" />
   </a>
 </div>

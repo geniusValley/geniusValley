@@ -64,7 +64,7 @@
 
 ### ☕ Buy Me a Coffee
 <div align="center">
-  <a href="www.coffeete.ir/olive14ah" target="_blank"">
+  <a href="http://www.coffeete.ir/olive14ah" target="_blank"">
     <img src="http://www.coffeete.ir/images/buttons/lemonchiffon.png" style="width:260px;" />
   </a>
 </div>

@@ -3,17 +3,20 @@
 </h1>
 
 ### 💻 About Me
-- 🎓 I'm a **Flutter Developer** with a strong background in building dynamic applications.
-- 🔭 Currently working on a logistics project utilizing the **MERN Stack** to enhance supply chain management.
-- 🌱 Expanding my knowledge in **Flutter** and continuously exploring new frameworks and tools.
-- 💬 Ask me about Flutter , Dart 
+- 🎓  I'm a **Flutter Developer** with expertise in building cross-platform mobile applications.
+- 🔭 Currently developing logistics and transportation applications to optimize rail and road operations.
+- 🌱 Continuously improving my skills in **Dart**, **Flutter**, and exploring state management solutions and backend integration.
+- 💬 Ask me about **Flutter**, **Dart**, **Clean Architecture**, and **Mobile App Development**.
 - 📫 You can contact me at alireza_ah14@yahoo.com
 
 ---
 
 ### 🚀 Skills
-- **Frontend:** Dart, Flutter
-- **Tools & Version Control:** Git, GitHub, GitLab
+- **Mobile Development:** Flutter, Dart
+- **State Management:**  Bloc, GetX
+- **Backend Integration:** REST APIs, Firebase
+- **Tools & Version Control:** Git, GitHub, GitLab, Postman, VS Code
+- **Design:** Figma, Responsive UI Design, Material Design, Custom Animations
 
 ---
 
@@ -32,9 +35,9 @@
 
 ### 🧰 Tools and Technologies
 <div align="center">
-  <img src="https://shorturl.at/Br6KP" height="50" alt="flutter logo" />
+  <img src="https://shorturl.at/1aSkH" height="50" alt="flutter logo" />
   <img width="20" />
-  <img src="https://shorturl.at/Z3zx7" height="50" alt="dart logo" />
+  <img src="https://shorturl.at/BXI8W" height="50" alt="dart logo" />
   <img width="20" />
   <img src="https://shorturl.at/U8UwX" height="50" alt="github logo" />
   <img width="20" />
